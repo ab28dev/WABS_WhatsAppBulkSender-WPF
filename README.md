@@ -1,8 +1,25 @@
 # WhatsAppBulkSender-WPF
-WPF application for the python project - https://github.com/ab28dev/WhatsAppBulkSender-Python
+
+**An app to send whatsapp messages in bulk.
 
 
-Disclaimer:
+**WPF application for the python project - https://github.com/ab28dev/WhatsAppBulkSender_Script-PYTHON
 
-THIS PROJECT IS ONLY MEANT FOR EDUCATIONAL PURPOSE.
-ANYONE USING THIS PROJECT FOR ANY OTHER USE WILL SOLELY BE RESPONISIBLE FOR ITS CONSEQUENSES.
+**About - 
+This project sends a mesasge to a list of contacts i.e. in Bulk.
+
+**Features
+* Send one message to many people on whatsapp by importing the contact numbers(text-file)
+* Uses WhatsApp Web
+* Can only send Text Message for now
+
+**Requirements to run
+* .net installed on PC.
+* Windows OS
+
+
+**Disclaimer:
+
+THIS PROJECT IS ONLY MEANT FOR EDUCATIONAL & LEARNING PURPOSE. ANYONE USING THIS PROJECT FOR ANY OTHER USE WILL SOLELY BE RESPONISIBLE FOR ITS CONSEQUENSES.
+
+I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH IT.
