@@ -16,7 +16,8 @@
 ### Requirements to run exe from release zip
 * .net installed on PC.
 * Windows OS
-* check your chrome version on chrome://version/ and go to https://chromedriver.chromium.org/downloads and find the matching webdriver. Download the zip file for windows there and extract its content. Paste the extracted file(chromedriver.exe) at this location **WABS-WhatsApp Bulk Sender\Res-x64** (the release file you extracted).
+* Latest Google Chrome Installed on the machine
+* check your chrome version on **[chrome://version/](chrome://version/)** and go to https://chromedriver.chromium.org/downloads and find the matching webdriver. Download the zip file for windows there and extract its content. Paste the extracted file(chromedriver.exe) at this location **WABS-WhatsApp Bulk Sender\Res-x64** (the release file you extracted).
 
 
 
