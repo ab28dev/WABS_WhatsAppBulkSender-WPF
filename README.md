@@ -1,7 +1,7 @@
 # WhatsAppBulkSender-WPF
 
 **An app to send whatsapp messages in bulk.**
-
+Developed using WPF, C#, XAMl, Python, Selenium my following mvvm design pattern.
 
 **WPF application for the python project - https://github.com/ab28dev/WhatsAppBulkSender_Script-PYTHON**
 
