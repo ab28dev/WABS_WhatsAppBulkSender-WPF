@@ -9,15 +9,16 @@ Developed using WPF, C#, XAMl, Python, Selenium my following mvvm design pattern
 **This project sends a mesasge to a list of contacts i.e. in Bulk.**
 
 ### Features
-* Send one message to many people on whatsapp by importing the contact numbers(text-file)
-* Uses WhatsApp Web
-* Can only send Text Message for now
+- Send one message to many people on whatsapp by importing the contact numbers(text-file)
+- Uses WhatsApp Web
+- Can only send Text Message for now
 
 ### Requirements to run exe from release zip
-* .net installed on PC.
-* Windows OS
-* Latest Google Chrome Installed on the machine
-* check your chrome version on **[chrome://version/](chrome://version/)** and go to https://chromedriver.chromium.org/downloads and find the matching webdriver. Download the zip file for windows there and extract its content. Paste the extracted file(chromedriver.exe) at this location **WABS-WhatsApp Bulk Sender\Res-x64** (the release file you extracted).
+- Uninstall WhatsApp Desktop if you have it on your system
+- .net installed on PC.
+- Windows OS
+- Latest Google Chrome Installed on the machine
+- check your chrome version on **[chrome://version/](chrome://version/)** and go to https://chromedriver.chromium.org/downloads and find the matching webdriver. Download the zip file for windows there and extract its content. Paste the extracted file(chromedriver.exe) at this location **WABS-WhatsApp Bulk Sender\Res-x64** (the release file you extracted).
 
 
 
